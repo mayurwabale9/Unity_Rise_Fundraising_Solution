@@ -51,14 +51,16 @@ Unity-Raise-Fundraising-Solutions/
 └── README.md
 ```
 
----
-📊 Dashboard KPIs
-KPI	Description
-💰 Amount Raised	Total funds collected
-💵 Net Revenue	Revenue after marketing expenses
-👥 Donor Count	Total number of donors
-🔁 Repeat Donors	Percentage of returning donors
-📢 Marketing Spend	Total campaign marketing expenditure
+## 📊 Dashboard KPIs
+
+| KPI                | Description                          |
+| ------------------ | ------------------------------------ |
+| 💰 Amount Raised   | Total funds collected                |
+| 💵 Net Revenue     | Revenue after marketing expenses     |
+| 👥 Donor Count     | Total number of donors               |
+| 🔁 Repeat Donors   | Percentage of returning donors       |
+| 📢 Marketing Spend | Total campaign marketing expenditure |
+
 ---
 
 ## 📌 Key Performance Indicators (KPIs)
